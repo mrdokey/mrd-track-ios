@@ -1,0 +1,9 @@
+{
+  "appId": "com.mrdsolution.mrdtrack",
+  "appName": "MRD Track",
+  "webDir": "www",
+  "server": {
+    "url": "https://gps.mrdsolution.my.id",
+    "cleartext": false
+  }
+}
